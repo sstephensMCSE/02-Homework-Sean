@@ -8,12 +8,12 @@ My assignment is to take an existing website and refactor it while adhering to t
 
 ## Table of Contents
 
-* [HTML Semantic Elements](#HTML Semantic Elements)
-* [Fix Broken Links ](#Fix Broken Links )
+* [HTML Semantic Elements](#HTML-Semantic-Elements)
+* [Fix Broken Links ](#Fix-Broken-Links )
 * [Images](#Images)
 
 
-## HTML Semantic Elements
+## HTML-Semantic-Elements
 
 Use the following semantic elements to define different parts of the web page:
 
@@ -33,9 +33,9 @@ Use the following semantic elements to define different parts of the web page:
 
 
 
-## Fix Broken Links 
+## Fix-Broken-Links 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+One of the links in the header was not working.
 
 
 ## Images
