@@ -8,9 +8,14 @@ My assignment is to take an existing website and refactor it while adhering to t
 
 ## Table of Contents
 
+* [Webpage](#Webpage)
 * [HTML Semantic Elements](#HTML-Semantic-Elements)
 * [Fix Broken Links ](#Fix-Broken-Links )
 * [Images](#Images)
+
+
+## Webpage
+https://sstephensmcse.github.io/02-Homework-Sean/
 
 
 ## HTML-Semantic-Elements
@@ -41,3 +46,5 @@ One of the links in the header was not working.
 ## Images
 
 Images used on the webpage are to be resizerd in order to improve performance. Master iamges are available as backup in case they are to be reused. When it comes to image size, bigger isn't always better, as uploading multiple large images can affect site performance. Since the site contains multiple images, They have been optimized for faster performance.
+
+
