@@ -17,19 +17,19 @@ My assignment is to take an existing website and refactor it while adhering to t
 
 Use the following semantic elements to define different parts of the web page:
 
-<article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
+* article
+* aside
+* details 
+* figcaption 
+* figure
+* footer
+* header
+* main
+* mark
+* nav
+* section
+* summary
+* time
 
 
 
